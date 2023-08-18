@@ -1,5 +1,5 @@
 # Wildfire Detection
-Welcome to the Wildfire Detection Research repository! This repository hosts the code and resources related to our research on leveraging computer vision for fire detection. Our aim is to contribute to wildfire prevention efforts by developing and training an object detection model to accurately identify instances of fire and smoke in images.
+Welcome to the Wildfire Detection Research project repository! This repository hosts the code and resources related to our research on leveraging computer vision for fire detection. Our aim is to contribute to wildfire prevention efforts by developing and training an object detection model to accurately identify instances of fire and smoke in images.
 
 <p align="center">
   <img src="src/intro-gif.gif" alt="gif" width = 800>
