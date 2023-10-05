@@ -1,4 +1,4 @@
-# Wildfire Detection App
+# A Comprehensive Guide to Wildfire Prevention with YOLOv8
 Welcome to the Wildfire Detection Research project repository! This repository hosts the code and resources related to our research on leveraging computer vision for fire detection. Our aim is to contribute to wildfire prevention efforts by developing and training an object detection model to accurately identify instances of fire and smoke in images.
 
 <p align="center">
